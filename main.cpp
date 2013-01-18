@@ -1,4 +1,4 @@
-//ver. 1.0 by AEffect 20.12.12 20:20
+//ver. 1.0 by Alexeenko Vsevolod 20.12.12 20:20
 #include "list.h"
 
 int main()
